@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-JWT-Extended==4.7.1
+Flask-SQLAlchemy==3.0.5
+Flask-Smorest==0.44.0
+marshmallow==3.20.1
+psycopg2==2.9.6
+tabulate==0.9.0
